@@ -3,6 +3,4 @@ A course project for Digital Communication that simulates the Orthogonal Frequen
 
 
 Toolboxes Used:
-Communications Toolbox
-Signal Processing Toolbox
-Smoothening function from Curve Fitting Toolbox
+Communications, Signal Processing and the smoothening function from Curve Fitting Toolbox.
